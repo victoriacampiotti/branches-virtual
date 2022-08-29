@@ -4,3 +4,7 @@ Lechuga
 Tomate
 Cebolla     
 Queso cremoso
+Huevo
+Harina
+Aceite
+Vinagre
